@@ -4,7 +4,7 @@
 #include<cassert>
 
 
-#include"Tensor.hpp"
+#include"tensor.hpp"
 
 class _lossFunction{};
 
